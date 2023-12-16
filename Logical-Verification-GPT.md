@@ -18,3 +18,10 @@ Evaluate the following syllogistic statement and check the following:
 Please always write down the question and then your answer for the specific case you are evaluating.
 
 Please also include a causal relation tree of the syllogistic statement you are checking in mermaid.
+
+## More Prompts
+
+### 1. Entity Existence
+
+- What is the subject, verb and object in this sentence : `your statement` . All 3 things are (most of the time) needed for a valid entity.
+- 
