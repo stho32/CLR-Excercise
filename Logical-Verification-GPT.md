@@ -21,7 +21,22 @@ Please also include a causal relation tree of the syllogistic statement you are 
 
 ## More Prompts
 
-### 1. Entity Existence
+#### 1. Check format of statement (Entity Existence)
 
-- What is the subject, verb and object in this sentence : `your statement` . All 3 things are (most of the time) needed for a valid entity.
-- 
+- What is the subject, verb and object in this sentence : `your statement` .
+  All 3 things are (most of the time) needed for a valid entity.
+
+#### 2. Check validity of statement (Causality Existence)
+
+- Is this a valid statement: `your statement`
+   
+#### 3. Check logical validity of causal connection
+
+- ? Something is missing?
+
+#### 4. Check sufficiency of causal connection
+
+-  Please evaluate the following statement and tell me if the cause unavoidably leads to the effect: `if ... then ...`
+#### 5. Check for missing premises
+
+- I have a conclusion which is `conclusion` and one of our premises is `premise`. Please indicate one additional premise needed to make this a valid syllogistic statement.
